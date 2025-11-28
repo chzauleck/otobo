@@ -5,5 +5,8 @@
   ],
   "enabledManagers": ["npm"],
   "osvVulnerabilityAlerts": true,
-  "printConfig": true
+  "printConfig": true,
+  // Remove PR limit for testing purposes
+  "prHourlyLimit": 2,
+  "prConcurrentLimit": 10
 }
