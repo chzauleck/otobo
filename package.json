@@ -1,4 +1,5 @@
 {
+  "name": "otobo",
   "dependencies": {
     "ckeditor5": "^44.1.0",
     "codemirror": "^5.65.16",

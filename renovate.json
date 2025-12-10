@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "enabledManagers": ["npm"],
+  "osvVulnerabilityAlerts": true,
+  "printConfig": true,
+  // Remove PR limit for testing purposes
+  "prHourlyLimit": 2,
+  "prConcurrentLimit": 10
+}
