@@ -2,7 +2,7 @@
   "name": "otobo",
   "dependencies": {
     "ckeditor5": "44.1.0",
-    "codemirror": "5.65.16",
+    "codemirror": "6.0.2",
     "jquery": "3.7.1",
     "jquery-ui": "1.13.2",
     "jquery-validation": "1.19.3",
